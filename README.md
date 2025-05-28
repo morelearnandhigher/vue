@@ -1,5 +1,8 @@
 # vue
-本地部署之后用history模式处理刷新404问题（app.use(history())）
+下载server.rar安装包后解压文件vscode打开查看效果，这里使用的是express搭建的后台，转到app.js文件下nodemon start启动，端口号为3000端口
+
+本地部署之后这里用history模式处理刷新404问题（app.use(history())）
+
 ![test](https://github.com/user-attachments/assets/375504ff-2b6a-4c33-8e32-9578d94befe9)
 
 
